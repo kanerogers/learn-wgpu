@@ -5,6 +5,10 @@
 
 Wgpu is still in development, so some of this doc is subject to change.
 
+## Support
+
+Want to support development? I have a Patreon for that! [https://www.patreon.com/sotrh](https://www.patreon.com/sotrh)
+
 ## Why Rust?
 Wgpu actually has C bindings to allow you to write C/C++ code with it, as well as use other languages that interface with C. That being said, wgpu is written in Rust, and it has some convient Rust Bindings that don't have to jump through any hoops. On top of that, I've been enjoying writing in Rust.
 
